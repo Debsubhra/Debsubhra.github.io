@@ -9,7 +9,8 @@ profile:
   image: DSC_site_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>D430 D Block, TIFR (Mumbai)</p>
+    <p>D430, 4th Floor <\p>
+    <p>D Block, TIFR (Mumbai) </p>
     <p>Homi Bhabha Road, Colaba</p>
     <p>Mumbai, Maharashtra - 12345</p>
 
