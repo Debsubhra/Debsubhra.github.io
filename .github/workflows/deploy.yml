@@ -94,6 +94,10 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Fix permission
+        run: |
+          chmod a+x bin/*
+          git commit -m "add execute permission to bin/deploy"
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
