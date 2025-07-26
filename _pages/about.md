@@ -12,7 +12,7 @@ profile:
     <p>D430, 4th Floor </p>
     <p>D Block, TIFR (Mumbai) </p>
     <p>Homi Bhabha Road, Colaba</p>
-    <p>Mumbai, Maharashtra - 12345</p>
+    <p>Mumbai, Maharashtra - 400001</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
