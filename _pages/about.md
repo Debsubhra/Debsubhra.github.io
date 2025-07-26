@@ -6,7 +6,7 @@ subtitle: <a href='#'>Research Scholar</a>. TIFR Mumbai.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSC_site_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
