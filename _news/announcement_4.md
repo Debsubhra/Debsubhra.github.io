@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presneted a Talk Titled "Optimized Algorithms for Multi-Baryon Correlation Functions from Lattice QCD" ! :sparkles: :smile:
+Presneted a Talk Titled "Optimized Algorithms for Multi-Baryon Correlation Functions from Lattice QCD" at ITP, Universtat Bern ! :sparkles: :smile:
