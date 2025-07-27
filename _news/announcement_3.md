@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [Charming Lattice QCD](https://indico.cern.ch/event/1517499/) workshop at CERN, Geneva! :sparkles: :smile:
+Attended [Charming Lattice QCD @ CERN 2025](https://indico.cern.ch/event/1517499/) workshop at CERN, Geneva! :sparkles:
