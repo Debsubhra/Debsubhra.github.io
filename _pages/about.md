@@ -27,9 +27,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Here is some new text.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I’m Debsubhra Chakraborty, a doctoral student in the Department of Theoretical Physics (DTP) at the Tata Institute of Fundamental Research (TIFR), Mumbai.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From an early age, I was drawn to physics for the way it uses mathematical structures to explain the workings of the real world. My fascination with particle physics began during my undergraduate years. I was captivated by the idea that it explores nature at the smallest possible scales, helping us move from the unknown to the known.
+
+Back then, I was more of a romantic — deeply in love with the idea of particle physics, though I hadn’t yet experienced real research. That changed when I joined TIFR as a graduate student. The journey wasn’t without its challenges, but over time, I found my footing. Today, I’m genuinely enjoying the process of research and discovery during my Ph.D. journey.
+
+My current research focuses on understanding the properties and interactions of hadrons and nuclei using Lattice Quantum Chromodynamics (QCD) — a first-principles, computational approach to solving the equations of the strong force. I am particularly interested in studying the structure and dynamics of light nuclei, as well as the spectroscopy of heavy baryons.
+
+In parallel, I am exploring how general principles such as causality, locality, and unitarity can be used to constrain possible effects of physics beyond the Standard Model (BSM), providing theoretical guidance to ongoing and future experimental efforts. What continues to drive me is the thrill of uncovering patterns in nature through a blend of theoretical insight, numerical computation, and physical intuition.
