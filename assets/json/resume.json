@@ -1,29 +1,36 @@
 {
   "basics": {
-    "name": "Debsubhra Chakraborty",
-    "label": "Research Scholar",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "debsubhra.chakraborty@tifr.res.in",
-    "phone": "(+91) 7319218645",
-    "url": "https://Debsubhra.github.io",
-    "summary": "Doctoral student probing the fundamental forces of nature through particle and nuclear physics",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "Homi Bhabha Road",
-      "postalCode": "400005",
-      "city": "Mumbai",
-      "countryCode": "India",
-      "region": "Maharashtra"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "education": [
     {
-      "name": "Department of Theoretical Physics, TIFR",
-      "location": "Mumbai, India",
-      "url": "https://theory.tifr.res.in",
-      "area": "Theoretical Particle and Nuclear Physics",
-      "studyType": "PhD",
-      "startDate": "2021-11-09",
-      "endDate":   ""
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -36,6 +43,19 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
+  "work": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -131,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "Bengali",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -139,13 +159,7 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Fluent",
-      "icon": ""
     }
-    
   ],
   "interests": [
     {
