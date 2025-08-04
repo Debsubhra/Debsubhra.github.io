@@ -79,30 +79,46 @@
   }
 ],
 
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+ "publications": [
+  {
+    "name": "Strongly Bound Dibaryon with Maximal Beauty Flavor from Lattice QCD",
+    "publisher": "Physical Review Letters",
+    "releaseDate": "2023-03-11",
+    "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.111901",
+    "summary": "First-principles lattice QCD calculation showing a deeply bound dibaryon composed entirely of bottom quarks, with large binding energy and evidence for a pole in the scattering amplitude. The result highlights strong interaction dominance in heavy multibaryon systems."
+  },
+  {
+    "name": "Nuclear correlation functions using first-principle calculations of lattice quantum chromodynamics",
+    "publisher": "Physical Review D",
+    "releaseDate": "2024-12-01",
+    "url": "https://link.aps.org/doi/10.1103/PhysRevD.110.114505",
+    "summary": "Introduced novel computational methods, including redundancy-reduction and machine learning-inspired tensor contraction frameworks, to compute correlation functions for light nuclei with significantly improved efficiency."
+  },
+  {
+    "name": "Precise study of triply charmed baryons (Ωccc)",
+    "publisher": "arXiv",
+    "releaseDate": "2024-11-01",
+    "url": "https://doi.org/10.48550/arXiv.2411.12729",
+    "summary": "Performed high-precision lattice QCD calculation of the Ωccc(3/2±) baryons using multiple ensembles and actions, leading to the most accurate mass predictions to date and guiding future experimental searches."
+  },
+  {
+    "name": "Estimating energy levels from lattice QCD correlation functions using a transfer matrix formalism",
+    "publisher": "arXiv",
+    "releaseDate": "2024-12-01",
+    "url": "https://doi.org/10.48550/arXiv.2412.01900",
+    "summary": "Developed a transfer matrix-based method to extract hadron and nuclear spectra from lattice QCD correlation functions, improving reliability and computational ease over conventional approaches."
+  },
+  {
+    "name": "Towards the HEFT-hedron: the complete set of positivity constraints at NLO",
+    "publisher": "arXiv",
+    "releaseDate": "2024-12-01",
+    "url": "https://doi.org/10.48550/arXiv.2412.14155",
+    "summary": "Derived the full set of next-to-leading order positivity bounds on the Higgs Effective Field Theory, dramatically constraining the allowed space of Wilson coefficients for longitudinal gauge-Higgs scattering processes."
+  }
+],
+
+
+ "skills": [
     {
       "name": "Physics",
       "level": "Master",
