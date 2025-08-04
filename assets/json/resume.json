@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Debsubhra Chakraborty",
+    "label": "Research Scholar",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "debsubhra.chakraborty@tifr.res.in",
+    "phone": "(+91) 7319218645",
+    "url": "https://Debsubhra.github.io",
+    "summary": "A doctoral student probing the fundamental forces of nature through particle and nuclear physics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Homi Bhabha Road",
+      "postalCode": "400005",
+      "city": "Mumbai",
+      "countryCode": "India",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
