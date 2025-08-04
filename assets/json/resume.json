@@ -48,10 +48,26 @@
   ],
   "awards": [
   {
+    "title": "Satyendranath Bose Gold Medal",
+    "date": "2021-12-11",
+    "awarder": "Ramakrishna Mission Vidyamandira",
+    "url": "https://vidyamandira.ac.in/",
+    "summary": "Awarded for securing the first rank in B.Sc. (Physics Honours) at Ramakrishna Mission Vidyamandira under the University of Calcutta."
+  },
+  
+  { 
+    "title": "NGPE 2020 Gold Medal",
+    "date": "2021-11-27",
+    "awarder": "Indian Association of Physics Teachers (IAPT)",
+    "url": "https://www.iapt.org.in/",
+    "summary": "Received a gold medal in the National Graduate Physics Examination (NGPE), recognizing excellence in undergraduate-level physics in India."
+  },
+
+  {
     "title": "All India Rank 2 in IIT JAM (Physics)",
     "date": "2021-03-01",
     "awarder": "Indian Institute of Technology (IIT)",
-    "url": "https://jam.iisc.ac.in/",
+    "url": "",
     "summary": "Secured AIR 2 in the Joint Admission Test for M.Sc. (JAM) in Physics, a highly competitive national-level entrance exam for premier science institutes in India."
   },
   {
@@ -60,20 +76,6 @@
     "awarder": "Jagadis Bose National Science Talent Search",
     "url": "https://jbnsts.ac.in/",
     "summary": "Awarded for outstanding performance in the JBNSTS talent search examination for science students after high school in West Bengal."
-  },
-  {
-    "title": "NGPE 2020 Gold Medal",
-    "date": "2020-03-01",
-    "awarder": "Indian Association of Physics Teachers (IAPT)",
-    "url": "https://www.iapt.org.in/",
-    "summary": "Received a gold medal in the National Graduate Physics Examination (NGPE), recognizing excellence in undergraduate-level physics in India."
-  },
-  {
-    "title": "Satyendranath Bose Gold Medal",
-    "date": "2021-07-01",
-    "awarder": "Ramakrishna Mission Vidyamandira",
-    "url": "https://vidyamandira.ac.in/",
-    "summary": "Awarded for securing the first rank in B.Sc. (Physics Honours) at Ramakrishna Mission Vidyamandira under the University of Calcutta."
   }
 ],
 
