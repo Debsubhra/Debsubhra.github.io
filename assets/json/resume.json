@@ -83,35 +83,35 @@
   {
     "name": "Strongly Bound Dibaryon with Maximal Beauty Flavor from Lattice QCD",
     "publisher": "Physical Review Letters",
-    "releaseDate": "2023-03-11",
+    "releaseDate": "2023-03-16",
     "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.111901",
     "summary": "First-principles lattice QCD calculation showing a deeply bound dibaryon composed entirely of bottom quarks, with large binding energy and evidence for a pole in the scattering amplitude. The result highlights strong interaction dominance in heavy multibaryon systems."
   },
   {
     "name": "Nuclear correlation functions using first-principle calculations of lattice quantum chromodynamics",
     "publisher": "Physical Review D",
-    "releaseDate": "2024-12-01",
+    "releaseDate": "2024-12-17",
     "url": "https://link.aps.org/doi/10.1103/PhysRevD.110.114505",
     "summary": "Introduced novel computational methods, including redundancy-reduction and machine learning-inspired tensor contraction frameworks, to compute correlation functions for light nuclei with significantly improved efficiency."
   },
   {
     "name": "Precise study of triply charmed baryons (Ωccc)",
     "publisher": "arXiv",
-    "releaseDate": "2024-11-01",
+    "releaseDate": "2024-11-19",
     "url": "https://doi.org/10.48550/arXiv.2411.12729",
     "summary": "Performed high-precision lattice QCD calculation of the Ωccc(3/2±) baryons using multiple ensembles and actions, leading to the most accurate mass predictions to date and guiding future experimental searches."
   },
   {
     "name": "Estimating energy levels from lattice QCD correlation functions using a transfer matrix formalism",
     "publisher": "arXiv",
-    "releaseDate": "2024-12-01",
+    "releaseDate": "2025-06-24",
     "url": "https://doi.org/10.48550/arXiv.2412.01900",
     "summary": "Developed a transfer matrix-based method to extract hadron and nuclear spectra from lattice QCD correlation functions, improving reliability and computational ease over conventional approaches."
   },
   {
     "name": "Towards the HEFT-hedron: the complete set of positivity constraints at NLO",
     "publisher": "arXiv",
-    "releaseDate": "2024-12-01",
+    "releaseDate": "2024-12-18",
     "url": "https://doi.org/10.48550/arXiv.2412.14155",
     "summary": "Derived the full set of next-to-leading order positivity bounds on the Higgs Effective Field Theory, dramatically constraining the allowed space of Wilson coefficients for longitudinal gauge-Higgs scattering processes."
   }
@@ -119,23 +119,56 @@
 
 
  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Theoretical and Computational Physics",
+    "level": "Advanced",
+    "icon": "fa-solid fa-atom",
+    "keywords": [
+      "Lattice QCD",
+      "Hadron and Nuclear Spectroscopy",
+      "Correlation Function Analysis",
+      "Transfer Matrix Formalism",
+      "Quantum Field Theory",
+      "Effective Field Theory (EFT)",
+      "Positivity Bounds",
+      "Numerical Linear Algebra",
+      "Spectral Analysis"
+    ]
+  },
+  
+  {
+    "name": "Programming and Computational Tools",
+    "level": "Advanced",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "Python",
+      "C/C++",
+      "CUDA C",
+      "Mathematica",
+      "MPI",
+      "OpenMP",
+      "TensorFlow",
+      "HDF5",
+      "Git"
+    ]
+  },
+  
+  {
+    "name": "Lattice QCD Software Frameworks",
+    "level": "Proficient",
+    "icon": "fa-solid fa-network-wired",
+    "keywords": [
+      "MILC",
+      "Chroma",
+      "QUDA",
+      "PyQUDA"
+    ]
+  }
+ ],
+ 
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -145,40 +178,30 @@
       "icon": ""
     }
   ],
+  
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Theoretical Particle and nuclear Physics",
+    "icon": "fa-solid fa-tag",
+    "keywords": [
+      "Lattice QCD",
+      "Hadronic and Nuclear Spectroscopy",
+      "Heavy Baryons and Dibaryons",
+      "Effective Field Theories (EFTs)",
+      "Positivity Bounds",
+      "S-Matrix Bootstrap",
+      "Spectral Analysis of Correlation Functions",
+      "Computational Methods in Quantum Field Theory"
+    ]
+  }
+],
+
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  {
+    "name": "Available upon request",
+    "icon": "fa-solid fa-envelope",
+    "reference": ""
+  }
+]
+
 }
